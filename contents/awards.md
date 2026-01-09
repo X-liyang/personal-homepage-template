@@ -1,3 +1,2 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 浙江大学校级一等奖学金, 2024.  
+- 浙江大学校级三等奖学金, 2025.  
